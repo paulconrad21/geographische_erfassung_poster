@@ -13,7 +13,6 @@ Als Trainingsdaten dienen kuratierte Trainingspolygone mit beiden Klassen. Das a
 +-- output/                # automatisch erzeugte Ergebnisse, nicht fuer Git gedacht
 +-- scripts/               # R-Skripte der Analyse
 +-- .gitignore
-+-- GITHUB_ANLEITUNG.md
 +-- README.md
 ```
 
