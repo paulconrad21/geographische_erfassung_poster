@@ -1,0 +1,24 @@
+# R session files
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Large raster and GIS sidecar files
+*.tif
+*.tiff
+*.vrt
+*.ovr
+*.aux.xml
+
+# Generated model/output artifacts
+output/
+*.rds
+
+# Keep small source data files only when they are intentionally curated.
+# The current training shapefile sidecars are small enough for Git, but
+# large raw/processed raster data should stay outside the repository.
