@@ -1,1 +1,0 @@
-# geographische_erfassung_poster
